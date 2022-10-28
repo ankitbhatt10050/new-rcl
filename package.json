@@ -4,7 +4,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/ankitbhatt10050"
   },
-  "homepage": "http://ankitbhatt10050.github.io/react-component-library",
+  "homepage": "http://ankitbhatt10050.github.io/new-rcl",
   "description": "React Component library",
   "scripts": {
     "rollup": "rollup -c",
