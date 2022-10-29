@@ -2,3 +2,4 @@ node_modules
 dist
 my-app
 storybook-static
+.npmrc
